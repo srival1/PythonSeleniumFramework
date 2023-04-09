@@ -107,3 +107,11 @@
 2023-04-08 23:12:33,960 :INFO :test_signup :*******Home Page Test End for kv2**************
 2023-04-08 23:12:59,569 :INFO :test_signup :*******Home Page Test Began for kv1**************
 2023-04-08 23:13:08,719 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-08 23:34:00,022 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-08 23:34:00,022 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-08 23:34:01,378 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-08 23:34:01,719 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-08 23:34:07,243 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-08 23:34:07,266 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-08 23:34:13,611 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-08 23:34:22,838 :INFO :test_signup :*******Home Page Test End for kv1**************

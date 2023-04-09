@@ -29,10 +29,7 @@ class Test_HomePage(BaseClass):
             homePage.getEmployedObject().click()
 
         homePage.setDOB(getSignupData["dob"].date().strftime("%m/%d/%Y"))
-        time.sleep(4)
-        #print(getSignupData["dob"].date().type())
         homePage.getTwoWayObject().clear()
-        time.sleep(4)
         homePage.getSubmitObject().click()
 
         message = homePage.getAlertObject().text
