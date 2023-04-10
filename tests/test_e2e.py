@@ -1,5 +1,6 @@
 # import pytest
 # from selenium import webdriver
+import pytest
 from selenium.webdriver.common.by import By
 # from selenium.webdriver.chrome.service import Service
 # from selenium.webdriver.chrome.options import Options
@@ -16,7 +17,7 @@ import time
 
 
 class Test_End2End(BaseClass):
-
+    @pytest.mark.sanity
     def test_e2e(self):
         log = self.getlogger()
         log.info("*******End to End Test Began**************")

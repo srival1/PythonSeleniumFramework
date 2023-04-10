@@ -10,7 +10,7 @@ from utilities.BaseClass import BaseClass
 
 
 class Test_HomePage(BaseClass):
-
+    @pytest.mark.regression
     def test_signup(self, getSignupData):
         log = self.getlogger()
         homePage = HomePage(self.driver)

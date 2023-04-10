@@ -6,3 +6,83 @@
 2023-04-08 23:35:37,923 :INFO :test_e2e :*******End to End Test Successfully Ended*
 2023-04-08 23:35:44,365 :INFO :test_signup :*******Home Page Test Began for kv1**************
 2023-04-08 23:35:45,594 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:23:45,902 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:23:45,980 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:23:47,670 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:23:48,037 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:23:53,523 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:23:53,553 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:26:31,007 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:26:31,007 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:26:32,080 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:26:32,354 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:26:37,710 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:26:37,745 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:36:34,440 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:36:34,440 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:36:35,808 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:36:36,142 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:36:41,555 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:36:41,588 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:36:48,002 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:36:49,453 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:38:11,195 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:38:11,195 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:38:12,561 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:38:12,896 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:38:18,300 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:38:18,335 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:38:24,970 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:38:26,091 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:41:57,662 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:41:57,662 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:41:59,133 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:41:59,382 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:42:09,094 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:42:10,082 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:42:35,985 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:42:35,985 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:42:37,422 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:42:37,762 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:42:43,137 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:42:43,172 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:42:48,505 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:42:49,624 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:43:45,440 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:43:45,440 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:43:46,556 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:43:46,806 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:43:54,048 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:43:55,052 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:44:21,215 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:44:21,215 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:44:22,571 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:44:22,910 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:44:28,270 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:44:28,299 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:44:33,493 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:44:34,617 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:45:59,939 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:45:59,939 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:46:01,137 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:46:01,398 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:46:06,757 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:46:06,791 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:46:11,937 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:46:13,069 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:48:00,313 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:48:00,313 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:48:01,821 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:48:02,094 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:48:07,437 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:48:07,472 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:48:13,083 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:48:14,192 :INFO :test_signup :*******Home Page Test End for kv1**************
+2023-04-09 19:51:40,670 :INFO :test_e2e :*******End to End Test Began**************
+2023-04-09 19:51:40,670 :INFO :test_e2e :*******Clicking Shop Button***************
+2023-04-09 19:51:42,211 :INFO :test_e2e :*******Extracted List of Products*********
+2023-04-09 19:51:42,534 :INFO :test_e2e :*******Added Required Products to Cart***
+2023-04-09 19:51:47,929 :INFO :test_e2e :*******Clicked on Purchase Button*********
+2023-04-09 19:51:47,969 :INFO :test_e2e :*******End to End Test Successfully Ended*
+2023-04-09 19:51:54,379 :INFO :test_signup :*******Home Page Test Began for kv1**************
+2023-04-09 19:51:55,537 :INFO :test_signup :*******Home Page Test End for kv1**************
